@@ -1,0 +1,19 @@
+# ---- Folders we don't commit (large or generated) ----
+data/**
+!data/.keep        # keep the folder itself with a tiny placeholder
+outputs/**
+!outputs/.keep     # keep the folder itself
+
+# ---- MATLAB temporary/build files ----
+*.asv
+*.autosave
+*.slprj/
+*.mex*
+*.fig
+
+# ---- OS/editor cruft ----
+.DS_Store
+Thumbs.db
+
+# ---- Misc notebooks/cache (if you ever add them) ----
+.ipynb_checkpoints/
