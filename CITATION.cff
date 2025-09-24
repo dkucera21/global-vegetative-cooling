@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Global Vegetative Cooling (1990–2024): Analysis Code"
+message: "If you use this code, please cite the archived software DOI."
+type: software
+authors:
+  - family-names: Kucera
+    given-names: Dion
+  - family-names: Jenerette
+    given-names: G. Darrel
+license: MIT
+version: "1.0.0"

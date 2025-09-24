@@ -1,0 +1,1 @@
+# Reproducing the analysis1) Create a Python environment and install from `requirements.txt`.2) Download dataset (DOI to be added) and unzip to `data/`.3) Run scripts under `code/python/` to regenerate tables and figures.
