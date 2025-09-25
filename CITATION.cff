@@ -3,10 +3,10 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: Kucera
   given-names: Dion
-orcid: https://orcid.org/0009-0008-2960-6280
+  orcid: https://orcid.org/0009-0008-2960-6280
 - family-names: Jenerette
   given-names: Darrel
-orcid: https://orcid.org/0000-0003-2387-7537
+  orcid: https://orcid.org/0000-0003-2387-7537
 title: "Global Vegetative Cooling (1990–2024) Code & Workflows"
 version: v1.0.0
 date-released: 2025-09-25
