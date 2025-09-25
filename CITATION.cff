@@ -1,16 +1,14 @@
-cff-version: 1.2.0
-title: Global Weakening of Urban Vegetative Cooling (1990–2024): Code
-message: "If you use this code, please cite it as below."
-type: software
+message: "If you use this repository, please cite it as below."
+title: "Global Vegetative Cooling (1990–2024): Code & Workflows"
 authors:
-  - family-names: Kucera
-    given-names: Dion
-    orcid: https://orcid.org/0009-0008-2960-6280
-  - family-names: Jenerette
-    given-names: G. Darrel
-    orcid: https://orcid.org/0000-0003-2387-7537
-repository-code: https://github.com/<your-user>/global-vegetative-cooling
-license: MIT
-keywords: [urban, NDVI, Landsat, Earth Engine, MATLAB, vegetative-cooling]
-version: 1.0.0
-date-released: 2025-09-24
+  - family-names: "Kucera"
+    given-names: "Dion"
+    orcid: "https://orcid.org/0009-0008-2960-6280"   # optional
+  - family-names: "Jenerette"
+    given-names: "G. Darrel"
+    orcid: "https://orcid.org/0000-0003-2387-7537"   # optional
+license: "MIT"
+repository-code: "https://github.com/<user>/global-vegetative-cooling"
+version: "v1.0.0"
+date-released: "2025-09-24"                           # ISO date (release date)
+keywords: ["urban heat", "NDVI", "LST", "vegetative cooling", "Earth Engine", "MATLAB"]
