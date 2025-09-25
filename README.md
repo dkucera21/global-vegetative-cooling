@@ -1,4 +1,4 @@
-# Global Vegetative Cooling: code & workflows (1990–2024) v1.0.1
+# Global Vegetative Cooling (1990–2024) Code & Workflows v1.0.1
 
 Reproducible code and data workflow for the manuscript **Global Weakening of Urban Vegetative Cooling (1990–2024)**.
 
@@ -251,7 +251,7 @@ Standardize numeric columns (z-score) if not done in MATLAB scripts.
   When ready, archive a release to **Zenodo** and add the DOI below.
 
 **How to cite this repository (example)**  
-Kucera, D., & Jenerette, G. D. (2025). *Global Vegetative Cooling: code & workflows (1990–2024).* Version X.Y. DOI: `<10.5281/zenodo.17198030>`.
+Kucera, D., & Jenerette, G. D. (2025). *Global Vegetative Cooling (1990–2024) Code & Workflows.* Version X.Y. DOI: `<10.5281/zenodo.17198030>`.
 
 ---
 
